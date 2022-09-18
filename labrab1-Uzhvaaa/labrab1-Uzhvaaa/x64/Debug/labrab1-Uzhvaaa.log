@@ -1,0 +1,5 @@
+﻿  labrab1-Uzhvaaa.cpp
+C:\Users\alecs\OneDrive\Рабочий стол\project\labrab1-Uzhvaaa\labrab1-Uzhvaaa\labrab1-Uzhvaaa.cpp(34,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\alecs\OneDrive\Рабочий стол\project\labrab1-Uzhvaaa\labrab1-Uzhvaaa\labrab1-Uzhvaaa.cpp(45,21): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\alecs\OneDrive\Рабочий стол\project\labrab1-Uzhvaaa\labrab1-Uzhvaaa\labrab1-Uzhvaaa.cpp(46,17): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  labrab1-Uzhvaaa.vcxproj -> C:\Users\alecs\OneDrive\Рабочий стол\project\labrab1-Uzhvaaa\x64\Debug\labrab1-Uzhvaaa.exe
